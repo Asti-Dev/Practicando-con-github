@@ -11,4 +11,7 @@ git show documento_que_edites = Para ver todos lo cambios del documento en cuest
 git diff insertar 2 codigos de 2 commits que quieras aparece git log = Para ver las diferencias exactas entre 2 commits.
 
 vamos a volver en el tiempo.
-pudimos volver 
+pudimos volver
+
+git reset codigo de commit --hard/--soft = Para volver al commit deseado 
+con hard se borra todo lo que este despues de ese commit con soft se quedan las opciones en cache
