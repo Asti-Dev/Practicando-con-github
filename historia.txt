@@ -15,3 +15,5 @@ pudimos volver
 
 git reset codigo de commit --hard/--soft = Para volver al commit deseado 
 con hard se borra todo lo que este despues de ese commit con soft se quedan las opciones en cache
+
+prueba de reset soft
