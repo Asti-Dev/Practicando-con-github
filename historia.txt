@@ -9,3 +9,6 @@ gir rm --cached = Para quitar el documento del catche
 git log = para ver el historial de cambios en el repositorio
 git show documento_que_edites = Para ver todos lo cambios del documento en cuestion cambios exactos
 git diff insertar 2 codigos de 2 commits que quieras aparece git log = Para ver las diferencias exactas entre 2 commits.
+
+vamos a volver en el tiempo.
+pudimos volver 
