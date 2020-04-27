@@ -23,3 +23,5 @@ prueba de reset soft exitosa
 git checkout (codigo de comit) (documento que quieres traer): para traer un documento de algun otro commit. el codigo comit puede cambiarse por una rama.
 
 git rm --cached o --force = para eliminar un archivo el primero lo elimina del staging el otro lo elimina del disco duro
+
+este es una prueba para el rm 2
