@@ -25,3 +25,9 @@ git checkout (codigo de comit) (documento que quieres traer): para traer un docu
 git rm --cached o --force = para eliminar un archivo el primero lo elimina del staging el otro lo elimina del disco duro
 
 este es una prueba para el rm 2
+
+git remote add origin (url) = para conectar un repo git local con un repo github.
+
+git pull origin master --allow-unrelated-histories : para jalar los documentos del repo de github y mezclar los historiales.
+
+git push origin master : para subir los cambios a la rama master del github
